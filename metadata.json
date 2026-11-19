@@ -1,0 +1,6 @@
+{
+  "name": "Talikhata",
+  "description": "Offline-first Bengali ledger, customer and supplier accounting, due reminders, reports, and A4 multi-print application for Amol Pharmacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
